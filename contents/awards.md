@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- **First Prize** in the 3rd National Higher Education Mathematics Ability Challenge Competition （第三届全国高等院校数学能力挑战赛一等奖）
+- **Third Prize** in the 14th Shanghai University Student Mathematics Competition (Non-Mathematics Category) （第十四届上海市大学生数学竞赛非数学类三等奖）
+- **Second Prize** in the 2022 Shanghai University Advanced Mathematics Competition (Non-Mathematics Group) （2022年上海大学高等数学竞赛非专业组二等奖）
+- **Excellence Award** in the 1st Academic Forum Essay Contest, School of Cultural Heritage and Information Management, Shanghai University （上海大学文化遗产和信息管理学院第一届学术论坛征文优秀奖）
+- **Academic Scholarship** and **Innovation and Entrepreneurship Scholarship**, Shanghai University （上海大学学业奖学金、创新创业奖学金）
+- **First Prize** in the 6th Undergraduate Academic Forum, Shanghai University, 2023 （2023年上海大学第六届本科生学术论坛一等奖）
+- **Excellent Practice Case** in "Resource Construction, Resource Organization, Digital Humanities, and Data Services" by Shanghai Library, 2024 （2024年上海市图书馆“资源建设、资源组织、数字人文、数据服务”优秀实践案例）
